@@ -31,3 +31,12 @@ if (chickenPrice < myMoney) {
 else {
     console.log('I will eat smaschpotato');
 }
+
+var ticketPrice = 800;
+var myBudget = 900;
+if (ticketPrice <= myBudget) {
+    console.log('I will bought Quater Airlinse ticket');
+}
+else {
+    console.log('I will bought Türkish Airlinse Ticket');
+}
