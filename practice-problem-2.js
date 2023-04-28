@@ -5,84 +5,84 @@ var peterTotalScore = 56;
 var johnsTotalScore = 40;
 
 if (myTotalScore >= 80) {
-    console.log('A');
+    console.log('Nazim A');
 }
 else if (myTotalScore >= 60) {
-    console.log('B');
+    console.log('Nazim B');
 }
 else if (myTotalScore >= 50) {
-    console.log('C');
+    console.log('Nazim C');
 }
 else if (myTotalScore >= 40) {
-    console.log('D');
+    console.log('Nazim D');
 }
 else {
-    console.log('F');
+    console.log('Nazim F');
 }
 
 if (tomsTotalScore >= 80) {
-    console.log('A');
+    console.log('Tom A');
 }
 else if (tomsTotalScore >= 60) {
-    console.log('B');
+    console.log('Tom B');
 }
 else if (tomsTotalScore >= 50) {
-    console.log('C');
+    console.log('Tom C');
 }
 else if (tomsTotalScore >= 40) {
-    console.log(D);
+    console.log('Tom D');
 }
 else {
-    console.log(F);
+    console.log('Tom F');
 }
 
 
 if (jansTotalScore >= 80) {
-    console.log('A');
+    console.log('Jane A');
 }
 else if (jansTotalScore >= 60) {
-    console.log('B');
+    console.log('Jane B');
 }
 else if (jansTotalScore >= 50) {
-    console.log('C');
+    console.log('Jane C');
 }
 else if (jansTotalScore >= 40) {
-    console.log('D');
+    console.log('Jane D');
 }
 else {
-    console.log('F');
+    console.log('Jane F');
 }
 
 
 if (peterTotalScore >= 80) {
-    console.log('A');
+    console.log('Peter A');
 }
 else if (peterTotalScore >= 60) {
-    console.log('B');
+    console.log('Peter B');
 }
 else if (peterTotalScore >= 50) {
-    console.log('C');
+    console.log('Peter C');
 }
 else if (peterTotalScore >= 40) {
-    console.log('D');
+    console.log('Peter D');
 }
 else {
-    console.log('F');
+    console.log('Peter F');
 }
 
 
 if (johnsTotalScore >= 80) {
-    console.log('A');
+    console.log('John A');
 }
 else if (johnsTotalScore >= 60) {
-    console.log('B');
+    console.log('John B');
 }
 else if (johnsTotalScore >= 50) {
-    console.log('C');
+    console.log('John C');
 }
 else if (johnsTotalScore >= 40) {
-    console.log('D');
+    console.log('John D');
 }
 else {
-    console.log('F');
+    console.log('John F');
 }
