@@ -14,9 +14,9 @@
 // console.log(positionIndex);
 
 
-// var countryName = ['Bangla', 'China', 'India', 'PK', 'Araba', 'Nepal', 'Bhutan', 'Japan', 'Mayanmar', 'Slovakia', 'Sirya'];
-// // console.log(countryName);
-// console.log(countryName.length);
+var countryName = ['Bangla', 'China', 'India', 'PK', 'Araba', 'Nepal', 'Bhutan', 'Japan', 'Mayanmar', 'Slovakia', 'Sirya'];
+// console.log(countryName);
+console.log(countryName.length);
 
 // //get element value by index
 // var element = countryName[7];
@@ -26,18 +26,20 @@
 // countryName = 'Germany'
 // console.log(countryName);
 
-// // find index of element
-// var positionOnIndexc = countryName.indexOf('Sirya');
-// console.log(positionOnIndexc);
+// find index of element
+var positionIndex = countryName.indexOf('Sirya');
+console.log(positionIndex);
 
-var playerNumber = [11, 0, 32, 99, 7, 3, 8, 98, 73, 9, 10, 62, 33, 91, 00, 1];
-console.log(playerNumber);
+// var playerNumber = [11, 0, 32, 99, 7, 3, 8, 98, 73, 9, 10, 62, 33, 91, 00, 1];
+// // console.log(playerNumber);
 
-console.log(playerNumber.length);
-var element = playerNumber[11];
-console.log(element);
-playerNumber = 100;
-console.log(playerNumber);
+// // console.log(playerNumber.length);
 
-var position = playerNumber.indexOf(32);
-console.log(position);
+// var element = playerNumber[5];
+// // console.log(element);
+
+// playerNumber[11] = 33;
+// // console.log(playerNumber);
+
+// var positionOfIndex = playerNumber.indexOf(1);
+// console.log(positionOfIndex);
