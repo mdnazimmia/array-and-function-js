@@ -43,3 +43,10 @@ console.log(positionIndex);
 
 // var positionOfIndex = playerNumber.indexOf(1);
 // console.log(positionOfIndex);
+
+
+var friends = ['Jamal', 'Kamal', 'Tamal', 'Ailam', 'Gelam'];
+// friends.push('Damal');
+console.log(friends);
+friends.pop();
+console.log(friends);
