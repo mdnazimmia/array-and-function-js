@@ -47,6 +47,14 @@ console.log(positionIndex);
 
 var friends = ['Jamal', 'Kamal', 'Tamal', 'Ailam', 'Gelam'];
 // friends.push('Damal');
-console.log(friends);
+// console.log(friends);
 friends.pop();
+// console.log(friends);
+
+// to add something as a first element
+friends.unshift('Helal');
+// console.log(friends);
+
+// to replace in a fixed position
+friends.splice(1, 1, 'Becareful');
 console.log(friends);
