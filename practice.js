@@ -16,7 +16,7 @@
 
 var countryName = ['Bangla', 'China', 'India', 'PK', 'Araba', 'Nepal', 'Bhutan', 'Japan', 'Mayanmar', 'Slovakia', 'Sirya'];
 // console.log(countryName);
-console.log(countryName.length);
+// console.log(countryName.length);
 
 // //get element value by index
 // var element = countryName[7];
@@ -28,7 +28,7 @@ console.log(countryName.length);
 
 // find index of element
 var positionIndex = countryName.indexOf('Sirya');
-console.log(positionIndex);
+// console.log(positionIndex);
 
 // var playerNumber = [11, 0, 32, 99, 7, 3, 8, 98, 73, 9, 10, 62, 33, 91, 00, 1];
 // // console.log(playerNumber);
@@ -45,16 +45,19 @@ console.log(positionIndex);
 // console.log(positionOfIndex);
 
 
-var friends = ['Jamal', 'Kamal', 'Tamal', 'Ailam', 'Gelam'];
+// var friends = ['Jamal', 'Kamal', 'Tamal', 'Ailam', 'Gelam'];
 // friends.push('Damal');
 // console.log(friends);
-friends.pop();
+// friends.pop();
 // console.log(friends);
 
 // to add something as a first element
-friends.unshift('Helal');
+// friends.unshift('Helal');
 // console.log(friends);
 
 // to replace in a fixed position
-friends.splice(1, 1, 'Becareful');
-console.log(friends);
+// friends.splice(1, 1, 'Becareful');
+// console.log(friends);
+
+console.log(5 < 6);
+console.log(5 > 6);
