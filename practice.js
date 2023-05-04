@@ -66,10 +66,16 @@ var positionIndex = countryName.indexOf('Sirya');
 // console.log(5 != 6);
 // console.log(15 != 15);
 
-console.log(5 <= 6);
-console.log(6 <= 6);
-console.log(16 <= 6);
+// console.log(5 <= 6);
+// console.log(6 <= 6);
+// console.log(16 <= 6);
 
-console.log(5 >= 6);
-console.log(6 >= 6);
-console.log(16 >= 16);
+// console.log(5 >= 6);
+// console.log(6 >= 6);
+// console.log(16 >= 16);
+
+var iphonePrice = 1000;
+var myBudget = 350;
+if (iphonePrice < myBudget) {
+    console.log('Ami will boudgt a Iphone')
+}
