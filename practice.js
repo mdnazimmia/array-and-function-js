@@ -59,9 +59,17 @@ var positionIndex = countryName.indexOf('Sirya');
 // friends.splice(1, 1, 'Becareful');
 // console.log(friends);
 
-console.log(5 < 6);
-console.log(5 > 6);
-console.log(5 == 6);
-console.log(5 == 5);
-console.log(5 != 6);
-console.log(15 != 15);
+// console.log(5 < 6);
+// console.log(5 > 6);
+// console.log(5 == 6);
+// console.log(5 == 5);
+// console.log(5 != 6);
+// console.log(15 != 15);
+
+console.log(5 <= 6);
+console.log(6 <= 6);
+console.log(16 <= 6);
+
+console.log(5 >= 6);
+console.log(6 >= 6);
+console.log(16 >= 16);
