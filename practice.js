@@ -77,5 +77,15 @@ var positionIndex = countryName.indexOf('Sirya');
 var iphonePrice = 1000;
 var myBudget = 350;
 if (iphonePrice < myBudget) {
-    console.log('Ami will boudgt a Iphone')
+    console.log('Ami will boudgt a Iphone');
+}
+// Declare two variables
+let price = 800;
+let myBudget = 700;
+
+// Check if myBudget is greater than or equal to price
+if (myBudget >= price) {
+    console.log("I can afford the item");
+} else {
+    console.log("The item is too expensive for me");
 }
