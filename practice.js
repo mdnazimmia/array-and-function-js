@@ -74,18 +74,19 @@ var positionIndex = countryName.indexOf('Sirya');
 // console.log(6 >= 6);
 // console.log(16 >= 16);
 
-var iphonePrice = 1000;
-var myBudget = 350;
-if (iphonePrice < myBudget) {
-    console.log('Ami will boudgt a Iphone');
-}
-// Declare two variables
-let price = 800;
-let myBudget = 700;
+var iphonePrice = 1100000;
+var myBudget = 20000;
 
-// Check if myBudget is greater than or equal to price
-if (myBudget >= price) {
-    console.log("I can afford the item");
-} else {
-    console.log("The item is too expensive for me");
+if (iphonePrice <= myBudget) {
+    console.log('I will bought the phone');
+}
+
+var chickenPrice = 500;
+var myMoney = 100;
+
+if (chickenPrice <= myMoney) {
+    console.lot('I will order a chickent');
+}
+else {
+    console.log('I will order lantine Supe and smash potato');
 }
