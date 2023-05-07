@@ -74,19 +74,29 @@ var positionIndex = countryName.indexOf('Sirya');
 // console.log(6 >= 6);
 // console.log(16 >= 16);
 
-var iphonePrice = 1100000;
-var myBudget = 20000;
+// var iphonePrice = 1100000;
+// var myBudget = 20000;
 
-if (iphonePrice <= myBudget) {
-    console.log('I will bought the phone');
-}
+// if (iphonePrice <= myBudget) {
+//     console.log('I will bought the phone');
+// }
 
-var chickenPrice = 500;
-var myMoney = 100;
+// var chickenPrice = 500;
+// var myMoney = 100;
 
-if (chickenPrice <= myMoney) {
-    console.lot('I will order a chickent');
+// if (chickenPrice <= myMoney) {
+//     console.lot('I will order a chickent');
+// }
+// else {
+//     console.log('I will order lantine Supe and smash potato');
+// }
+
+var isGraduated = true;
+var salary = 75000;
+var car = 1;
+if (isGraduated == true && salary > 50000 && car >= 1) {
+    console.log('you have a chance to get the Opertunaty')
 }
 else {
-    console.log('I will order lantine Supe and smash potato');
+    console.log('You have no chance to get the High level opertunaty')
 }
