@@ -100,3 +100,14 @@ if (isGraduated == true && salary > 50000 && car >= 1) {
 else {
     console.log('You have no chance to get the High level opertunaty')
 }
+
+var millioniar = true;
+var industrieMi = 100000;
+var porshe911 = 3;
+
+if (millioniar == true && industrieMi > 10000 && porshe911 >= 2) {
+    console.log('You are going to be next world Renking 1')
+}
+else {
+    console.log('May be you have to try for next time')
+}
