@@ -122,3 +122,14 @@ if (isGraduated === true || salary > 50000 || car >= 1) {
 else {
     console.log('Please submit your document, we will inform you')
 }
+
+var isGraduated = true;
+var salary = 75000;
+var car = 1;
+
+if (isGraduated === true || salary > 50000 || car >= 1) {
+    console.log('You have an appointment the after tomorrow')
+}
+else {
+    console.log('Please submit your document, we will inform you')
+}
