@@ -188,6 +188,23 @@ else {
 }
 
 
+// var money = 40;
+// var beef = 80;
+// var chicken = 30;
+// var laam = 60;
+// if (beef < money) {
+//     console.log('I will order beef');
+// }
+// else if (laam < money) {
+//     console.log('I will order laam');
+// }
+// else if (chicken < money) {
+//     console.log('I will order chicken');
+// }
+// else {
+//     console.log('Others I have to be order smatsch potato and lentinesuppe');
+// }
+
 var money = 40;
 var beef = 80;
 var chicken = 30;
